@@ -69,5 +69,17 @@ https://www.seekpng.com/idown/u2w7u2t4i1y3a9y3_call-of-duty-guns-firearms-gun-we
 - Update README.md if necessary.
 - Open a Pull Request with a comprehensive description of changes.
 
-## Demo
-[![The Maze Demo](https://i.imgur.com/5Ss7s1S.png)](https://www.youtube.com/embed/6T2N8gNUTQ8)
+### To-Do
+- Improved map parser
+- Better error handling
+- More textures
+- Enemies / obstacles / objects
+- Maze goal that loads next map
+- Rain
+
+### Resources
+- [SDL2 API](https://wiki.libsdl.org/CategoryAPI)
+- [LazyFoo Beginning Game Programming](http://lazyfoo.net/tutorials/SDL/index.php)
+- [Ray-Casting Tutorial For Game Development And Other Purposes by F. Permadi](http://permadi.com/1996/05/ray-casting-tutorial-table-of-contents/)
+- [LodeV Raycasting Tutorial](http://lodev.org/cgtutor/raycasting.html)
+- [Game Engine Black Book](https://www.amazon.com/Game-Engine-Black-Book-Wolfenstein/dp/1539692876)
